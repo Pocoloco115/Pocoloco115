@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Pocoloco115?tab=repositories" target="_blank">
-        <img src="assets/gifs/game-dev-header.gif" alt="MasterHead"
+        <img src="assets/game-dev-header.gif" alt="MasterHead"
             style="width: 100%; max-width: 800px; border-radius: 15px" />
     </a>
 </p>
@@ -23,7 +23,7 @@
         </td>
         <td>
             <a href="https://github.com/Pocoloco115?tab=repositories" target="_blank">
-                <img align="right" alt="Game Dev" src="assets/gifs/game-dev-side.gif" width="400" style="border-radius: 15px" />
+                <img align="right" alt="Game Dev" src="assets/game-dev-side.gif" width="400" style="border-radius: 15px" />
             </a>
         </td>
     </tr>
