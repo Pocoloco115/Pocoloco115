@@ -1,16 +1,102 @@
-## Hi there 👋
+<p align="center">
+    <a href="https://github.com/TU_USERNAME?tab=repositories" target="_blank">
+        <img src="assets/gifs/game-dev-header.gif" alt="MasterHead"
+            style="width: 100%; max-width: 800px; border-radius: 15px" />
+    </a>
+</p>
 
-<!--
-**Pocoloco115/Pocoloco115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi ✌, I'm William Torres!</h1>
+<h3 align="center">Game Developer in training from Nicaragua 🎮</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li>🎮 Passionate about <strong>Game Development</strong></li>
+                <li>🎓 Currently studying at <strong>Universidad Americana (UAM)</strong>, Nicaragua</li>
+                <li>🧠 Focused on growing professionally through small and constant projects</li>
+                <li>🛠️ Strongest skills in <strong>Unity</strong> and <strong>.NET Framework</strong></li>
+                <li>🎨 Learning game art tools like <strong>Piskel</strong> and starting with <strong>Blender</strong></li>
+                <li>😄 Fun fact: I enjoy <strong>long walks</strong> :)</li> 
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/TU_USERNAME?tab=repositories" target="_blank">
+                <img align="right" alt="Game Dev" src="assets/gifs/game-dev-side.gif" width="400" style="border-radius: 15px" />
+            </a>
+        </td>
+    </tr>
+</table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
+<table>
+    <tr>
+        <td align="center">
+            <h4>🎮 Game Development</h4>
+            <p>
+                <a href="https://unity.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40" />
+                </a>
+                <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+                    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
+                </a>
+                <a href="https://www.piskelapp.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/piskel.svg" alt="piskel" width="40" height="40" />
+                </a>
+            </p>
+        </td>
+        <td align="center">
+            <h4>🖥️ .NET Stack</h4>
+            <p>
+                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+                </a>
+                <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+                </a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h4>🌐 Web Basics</h4>
+            <p>
+                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+                </a>
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+                </a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+                </a>
+            </p>
+        </td>
+        <td align="center">
+            <h4>⚙️ Tools</h4>
+            <p>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+                </a>
+                <a href="https://github.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
+</div>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&show_icons=true&locale=en&layout=compact&theme=dark" alt="top-langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&locale=en&theme=dark" alt="stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark" alt="streak-stats" />
+</p>
+
