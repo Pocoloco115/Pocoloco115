@@ -78,7 +78,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pocoloco115&layout=compact&theme=dark&exclude_repo=repoJava1,repoJava2" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pocoloco115&layout=compact&theme=dark&exclude_repo=Calculito" />
     <img src="https://github-readme-stats.vercel.app/api?username=Pocoloco115&show_icons=true&locale=en&theme=dark" alt="stats" />
 </p>
 
