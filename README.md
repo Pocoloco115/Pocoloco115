@@ -50,7 +50,7 @@
             </p>
         </td>
         <td align="center">
-            <h4>🖥️ .NET Stack</h4>
+            <h4>🖥️ Programming</h4>
             <p>
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
@@ -62,21 +62,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">
-            <h4>🌐 Web Basics</h4>
-            <p>
-                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-                </a>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-                </a>
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-                </a>
-            </p>
-        </td>
-        <td align="center">
+        <td align="center" colspan="2">
             <h4>⚙️ Tools</h4>
             <p>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -92,11 +78,10 @@
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&show_icons=true&locale=en&layout=compact&theme=dark" alt="top-langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&locale=en&theme=dark" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pocoloco115&show_icons=true&locale=en&layout=compact&theme=dark" alt="top-langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pocoloco115&show_icons=true&locale=en&theme=dark" alt="stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark" alt="streak-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pocoloco115&theme=dark" alt="streak-stats" />
 </p>
-
