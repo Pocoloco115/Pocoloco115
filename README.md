@@ -5,16 +5,17 @@
     </a>
 </p>
 
-<h1 align="center">Hi ✌, I'm William Torres!</h1>
+<h1 align="center">Hi, I'm William Torres :)!</h1>
 <h3 align="center">Game Developer in training from Nicaragua 🎮</h3>
 
 ---
+
+### About Me 
 
 <table align="center">
 <tr>
 <td>
 
-### About Me
 - 🎮 Passionate about **Game Development**  
 - 🎓 Currently studying at **Universidad Americana (UAM)**, Nicaragua  
 - 🧠 Focused on growing professionally through small projects  
