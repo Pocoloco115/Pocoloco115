@@ -13,6 +13,7 @@
 <table align="center">
 <tr>
 <td>
+    
 ### About Me 
 - 🎮 Passionate about **Game Development**  
 - 🎓 Currently studying at **Universidad Americana (UAM)**, Nicaragua  
