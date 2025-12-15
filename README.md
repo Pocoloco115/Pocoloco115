@@ -49,7 +49,7 @@
 </td>
 <td align="center">
 🎨 Piskel<br>
-<img src="assets/pixel-art.png" width="80" height="80">
+<img src="assets/pixel-art.png" width="64" height="64">
 </td>
 <td align="center">
 🖌️ Blender<br>
