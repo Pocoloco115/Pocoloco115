@@ -49,7 +49,7 @@
 </td>
 <td align="center">
 🎨 Piskel<br>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/piskel.svg" width="50" height="50">
+<img src="assets/pixel-art.png" width="50" height="50">
 </td>
 <td align="center">
 🖌️ Blender<br>
@@ -76,6 +76,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pocoloco115&theme=dark" alt="streak-stats" />
+<img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" alt="streak-stats" />
 </p>
 
