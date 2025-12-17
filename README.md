@@ -25,8 +25,8 @@
 </table>
 
 <p align="center">
-    <img src="assets/game-dev-side.gif"
-         style="width: 420px; border-radius: 10px;" />
+    <img src="assets/bonfire.gif"
+         style="width: 480px; border-radius: 10px;" />
 </p>
 
 <hr>
@@ -81,7 +81,7 @@
 <hr>
 
 <p align="center">
-    <img src="assets/bonfire.gif"
+    <img src="assets/game-dev-side.gif"
          alt="Bonfire"
-         style="width: 480px; max-width: 100%; opacity: 0.9;" />
+         style="width: 840px; max-width: 100%; opacity: 0.9;" />
 </p>
