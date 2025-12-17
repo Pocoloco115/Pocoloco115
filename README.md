@@ -81,7 +81,8 @@
 <hr>
 
 <p align="center">
+    <sub>MENTAL STATE</sub><br>
     <img src="assets/game-dev-side.gif"
          alt="Bonfire"
-         style="width: 840px; max-width: 100%; opacity: 0.9;" />
+         style="width: 420px; max-width: 100%; opacity: 0.9;" />
 </p>
