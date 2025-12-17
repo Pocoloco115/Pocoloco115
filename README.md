@@ -80,8 +80,9 @@
 
 <hr>
 
+<h3 align="center">[ MENTAL STATE ]</h3>
+
 <p align="center">
-    <sub>MENTAL STATE</sub><br>
     <img src="assets/game-dev-side.gif"
          alt="Bonfire"
          style="width: 420px; max-width: 100%; opacity: 0.9;" />
