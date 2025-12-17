@@ -26,7 +26,7 @@
 
 <p align="center">
     <img src="assets/game-dev-side.gif"
-         style="width: 260px; border-radius: 10px;" />
+         style="width: 420px; border-radius: 10px;" />
 </p>
 
 <hr>
@@ -83,5 +83,5 @@
 <p align="center">
     <img src="assets/bonfire.gif"
          alt="Bonfire"
-         style="width: 240px; max-width: 100%; opacity: 0.9;" />
+         style="width: 480px; max-width: 100%; opacity: 0.9;" />
 </p>
