@@ -1,81 +1,87 @@
 <p align="center">
-    <a href="https://github.com/Pocoloco115?tab=repositories" target="_blank">
-        <img src="assets/game-dev-header.gif" alt="MasterHead"
-            style="width: 100%; max-width: 800px; border-radius: 15px" />
-    </a>
+    <img src="assets/game-dev-header.gif"
+         style="width: 100%; max-width: 900px; border-radius: 8px;" />
 </p>
 
-<h1 align="center">Hi, I'm William Torres :)!</h1>
-<h3 align="center">Game Developer in training from Nicaragua 🎮</h3>
+<h1 align="center">Hi, I'm William Torres :)</h1>
+<p align="center"><i>Game Developer in training · Nicaragua</i></p>
 
----
+<hr>
+
+<h3 align="center">▸ Character Status</h3>
 
 <table align="center">
-<tr>
-<td>
-    
-### About Me 
-- 🎮 Passionate about **Game Development**  
-- 🎓 Currently studying at **Universidad Americana (UAM)**, Nicaragua  
-- 🧠 Focused on growing professionally through small projects  
-- 🛠️ Strongest skills in **Unity** and **.NET Framework**  
-- 🎨 Learning **Piskel** and starting with **Blender**  
-- 😄 Fun fact: I enjoy **long walks** :)
+<tr><td>
 
-</td>
-<td align="center">
+- **Class:** Game Developer  
+- **Main Engine:** Unity  
+- **Programming:** C# · .NET  
+- **Origin:** Universidad Americana (UAM), Nicaragua  
+- **Progression:** Small, constant projects  
+- **Art Tools:** Piskel · Beginner Blender  
+- **Trait:** Enjoys long walks  
 
-<p>
-<img src="assets/game-dev-side.gif" alt="Game Dev" style="width: 300px; border-radius: 15px;" />
-</p>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
----
+<p align="center">
+    <img src="assets/game-dev-side.gif"
+         style="width: 260px; border-radius: 10px;" />
+</p>
 
-### Tools & Languages
+<hr>
+
+<h3 align="center">▸ Equipment</h3>
 
 <table align="center">
 <tr>
 <td align="center">
 🎮 Unity<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45">
 </td>
 <td align="center">
 🖥️ C#<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45">
 </td>
 <td align="center">
 🎨 Piskel<br>
-<img src="assets/pixel-art.png" width="50" height="50">
+<img src="assets/pixel-art.png" width="45">
 </td>
 <td align="center">
 🖌️ Blender<br>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="50">
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45">
 </td>
 <td align="center">
 ⚙️ Git<br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45">
 </td>
 <td align="center">
 🐙 GitHub<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45">
 </td>
 </tr>
 </table>
 
----
+<hr>
 
-### GitHub Stats
+<h3 align="center">▸ Journey</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pocoloco115&layout=compact&theme=dark&exclude_repo=Calculito&hide=shaderlab,hlsl" />
-<img src="https://github-readme-stats.vercel.app/api?username=Pocoloco115&show_icons=true&locale=en&theme=dark" alt="stats" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" alt="streak-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark" />
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" />
+</p>
+
+<hr>
+
+<p align="center">
+    <img src="assets/bonfire.gif"
+         alt="Bonfire"
+         style="width: 240px; max-width: 100%; opacity: 0.9;" />
+</p>
