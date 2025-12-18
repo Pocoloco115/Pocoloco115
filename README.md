@@ -84,8 +84,10 @@
 
 <h3 align="center">[ MENTAL STATE ]</h3>
 
-<p align="center">
-    <img src="assets/game-dev-side.gif"
+<table align="center">
+    <tr><td>
+        <img src="assets/game-dev-side.gif"
          alt="Bonfire"
          style="width: 420px; max-width: 100%; opacity: 0.9;" />
-</p>
+    </td></tr>
+</table>
