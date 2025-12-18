@@ -10,12 +10,10 @@
 
 <h3 align="center">▸ Character Status</h3>
 
-<td>
-    <p align="center">
+<table aling="center">
     <img src="assets/bonfire.gif"
          style="width: 480px; border-radius: 10px;" />
-    </p>
-</td>
+</table>
 
 <table align="center">
 <tr><td>
