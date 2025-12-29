@@ -69,15 +69,15 @@
 <h3 align="center">▸ Journey</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Estadísticas de GitHub de Pocoloco115" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide=shaderlab,hlsl&cache_seconds=1800" />
+  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide_border=true&hide=shaderlab,hlsl&cache_seconds=1800" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 <hr>
