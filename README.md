@@ -1,6 +1,6 @@
 <p align="center">
     <img src="assets/game-dev-header.gif"
-         style="width: 100%; max-width: 900px; border-radius: 8px;" />
+         style="width: 100%; max-width: 500px; border-radius: 8px;" />
 </p>
 
 <h1 align="center">Hi, I'm William Torres :)</h1>
