@@ -69,15 +69,15 @@
 <h3 align="center">▸ Journey</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pocoloco115&layout=compact&theme=dark&exclude_repo=Calculito&hide=shaderlab,hlsl" />
+  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide=shaderlab,hlsl&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" />
 </p>
 
 <hr>
