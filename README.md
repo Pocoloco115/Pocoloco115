@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+    <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark" />
 </p>
 
 <hr>
