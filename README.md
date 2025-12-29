@@ -67,7 +67,6 @@
 <hr>
 <h3 align="center">▸ Journey</h3>
 
-<h1 align="center">General GitHub Stats</h1>
 <table align="center">
   <tr>
     <td>
@@ -76,7 +75,6 @@
   </tr>
 </table>
 
-<h1 align="center">Top Languages</h1>
 <table align="center">
   <tr>
     <td>
@@ -85,7 +83,6 @@
   </tr>
 </table>
 
-<h1 align="center">Contribution Streak</h1>
 <table align="center">
   <tr>
     <td>
