@@ -67,29 +67,26 @@
 <hr>
 <h3 align="center">▸ Journey</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" alt="Pocoloco115's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800"
+    alt="Pocoloco115's GitHub Stats"
+  />
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark&hide_border=false" alt="Contribution Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark&hide_border=false"
+    alt="Contribution Streak"
+  />
+</p>
 
 <hr>
 
