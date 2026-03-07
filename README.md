@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">Hi, I'm William Torres :)</h1>
-<p align="center"><i>Game Developer in training · Nicaragua</i></p>
+<p align="center"><i>Game Developer · Nicaragua</i></p>
 
 <hr>
 
-<h3 align="center">▸ Character Status</h3>
+<h3 align="center">▸ Stats</h3>
 
 <table align="center">
     <tr><td>
