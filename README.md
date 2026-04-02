@@ -8,61 +8,75 @@
 
 <hr>
 
-<h3 align="left">▸ Stats</h3>
-
-<table align="left">
-    <tr><td>
-        <img aling="left" src="assets/bonfire.gif"
-         style="width: 380px; border-radius: 10px;" />
-    </td></tr>
-    <tr><td>
-
-- **Class:** Game Developer  
-- **Main Engine:** Unity  
-- **Programming:** C# · .NET  
-- **Origin:** Universidad Americana (UAM), Nicaragua  
-- **Progression:** Small, constant projects  
-- **Art Tools:** Piskel · Beginner Blender  
-- **Trait:** Enjoys long walks  
-
-</td></tr>
-</table>
-
-<table align="left">
-
-</table>
-
-<hr>
-
-<h3 align="center">▸ Equipment</h3>
-
 <table align="center">
-<tr>
-<td align="center">
-🎮 Unity<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45">
+  <tr>
+  <td align="center" valign="top" style="padding: 16px;">
+
+  <h3 align="center">▸ Stats</h3>
+
+  <p align="center">
+    <img src="assets/bonfire.gif"
+             alt="Bonfire"
+             style="width: 280px; border-radius: 10px;" />
+  </p>
+
+  <div align="center">
+    <p><b>Class:</b> Game Developer</p>
+    <p><b>Main Engine:</b> Unity</p>
+    <p><b>Programming:</b> C# · .NET</p>
+    <p><b>Origin:</b> Universidad Americana (UAM), Nicaragua</p>
+    <p><b>Progression:</b> f(x) = random spikes of motivation</p>
+    <p><b>Art Tools:</b> Piskel · Beginner Blender</p>
+    <p><b>Trait:</b> Enjoys long walks</p>
+  </div>
+
 </td>
-<td align="center">
-🖥️ C#<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45">
+
+  <td align="center" valign="top" style="padding: 16px;">
+
+  <h3 align="center">▸ Equipment</h3>
+
+  <p align="center">
+    <img src="assets/inventory.png"
+             alt="Inventory"
+             style="width: 220px; border-radius: 10px;" />
+  </p>
+
+  <table>
+    <tr>
+      <td align="center" style="padding: 8px;">
+            🎮 Unity<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45">
+      </td>
+      <td align="center" style="padding: 8px;">
+            🖥️ C#<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 8px;">
+            🎨 Piskel<br>
+        <img src="assets/pixel-art.png" width="45">
+      </td>
+      <td align="center" style="padding: 8px;">
+            🖌️ Blender<br>
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 8px;">
+            ⚙️ Git<br>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45">
+      </td>
+      <td align="center" style="padding: 8px;">
+            🐙 GitHub<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45">
+      </td>
+    </tr>
+  </table>
+
 </td>
-<td align="center">
-🎨 Piskel<br>
-<img src="assets/pixel-art.png" width="45">
-</td>
-<td align="center">
-🖌️ Blender<br>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45">
-</td>
-<td align="center">
-⚙️ Git<br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45">
-</td>
-<td align="center">
-🐙 GitHub<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45">
-</td>
-</tr>
+  </tr>
 </table>
 
 <hr>
@@ -94,9 +108,11 @@
 <h3 align="center">[ MENTAL STATE ]</h3>
 
 <table align="center">
-    <tr><td>
-        <img src="assets/game-dev-side.gif"
-         alt="Bonfire"
-         style="width: 420px; max-width: 100%; opacity: 0.9;" />
-    </td></tr>
+  <tr>
+    <td>
+      <img src="assets/game-dev-side.gif"
+           alt="Bonfire"
+           style="width: 420px; max-width: 100%; opacity: 0.9;" />
+    </td>
+  </tr>
 </table>
