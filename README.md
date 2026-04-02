@@ -84,21 +84,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800"
+    src="https://github-readme-stats-psi-olive-31.vercel.app/api?username=Pocoloco115&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=1800"
     alt="Pocoloco115's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=dark&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800"
+    src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=tokyonight&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=tokyonight&hide_border=false"
     alt="Contribution Streak"
   />
 </p>
