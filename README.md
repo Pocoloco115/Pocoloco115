@@ -4,21 +4,18 @@
 </p>
 
 <h1 align="center">Hi, I'm William Torres :)</h1>
-<p align="center"><i>Game Developer · Nicaragua</i></p>
+<p align="center"><i>Game Developer in training · Nicaragua</i></p>
 
 <hr>
 
-<h3 align="center">▸ Stats</h3>
+<h3 align="left">▸ Stats</h3>
 
-<table align="center">
+<table align="left">
     <tr><td>
-        <img aling="center" src="assets/bonfire.gif"
-         style="width: 480px; border-radius: 10px;" />
+        <img aling="left" src="assets/bonfire.gif"
+         style="width: 380px; border-radius: 10px;" />
     </td></tr>
-</table>
-
-<table align="center">
-<tr><td>
+    <tr><td>
 
 - **Class:** Game Developer  
 - **Main Engine:** Unity  
@@ -29,6 +26,10 @@
 - **Trait:** Enjoys long walks  
 
 </td></tr>
+</table>
+
+<table align="left">
+
 </table>
 
 <hr>
