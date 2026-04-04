@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm William Torres :)</h1>
-<p align="center"><i>Game Developer in training · Nicaragua</i></p>
+<p align="center"><i>Game Developer Attempt · Nicaragua</i></p>
 
 <hr>
 
