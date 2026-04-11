@@ -91,7 +91,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=tokyonight&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800&stats_format=bytes"
+    src="https://github-readme-stats-psi-olive-31.vercel.app/api/top-langs/?username=Pocoloco115&layout=compact&theme=tokyonight&hide_border=false&hide=shaderlab,hlsl&cache_seconds=1800&stats_format=bytes&langs_count=10"
     alt="Top Languages"
   />
 </p>
