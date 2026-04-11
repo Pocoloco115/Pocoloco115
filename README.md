@@ -56,7 +56,7 @@
     <tr>
       <td align="center" style="padding: 8px;">
             🎨 Piskel<br>
-        <img src="assets/pixel-art.png" width="45">
+        <img src="assets/idk.png" width="45">
       </td>
       <td align="center" style="padding: 8px;">
             🖌️ Blender<br>
