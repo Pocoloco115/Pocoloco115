@@ -103,6 +103,13 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Pocoloco115&label=Profile%20views&style=for-the-badge&color=000000"
+    alt="Profile views"
+  />
+</p>
+
 <hr>
 
 <h3 align="center">[ MENTAL STATE ]</h3>
