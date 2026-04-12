@@ -1,10 +1,12 @@
 <p align="center">
-    <img src="assets/game-dev-header.gif"
-         style="width: 80%; max-width: 900px; border-radius: 8px;" />
+    <img src="assets/game-dev.gif"
+         style="width: 100%; max-width: 1000px; border-radius: 8px;" />
 </p>
 
 <h1 align="center">Hi, I'm William Torres :)</h1>
-<p align="center"><i>Game Developer Attempt · Nicaragua</i></p>
+<p align="center"><i>Game Developer · Nicaragua</i></p>
+<p align="center"><i>(Raised on PlayStation btw)</i></p>
+
 
 <hr>
 
@@ -100,6 +102,13 @@
   <img
     src="https://streak-stats.demolab.com/?user=Pocoloco115&theme=tokyonight&hide_border=false"
     alt="Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Pocoloco115&label=Profile%20views&style=for-the-badge&color=000000"
+    alt="Profile views"
   />
 </p>
 
