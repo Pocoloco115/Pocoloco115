@@ -114,14 +114,26 @@
 
 <hr>
 
-<h3 align="center">[ MENTAL STATE ]</h3>
+<hr>
+
+<h3 align="center">▸ More lore</h3>
 
 <table align="center">
   <tr>
-    <td>
-      <img src="assets/game-dev-side.gif"
-           alt="Bonfire"
-           style="width: 420px; max-width: 100%; opacity: 0.9;" />
+    <td align="center" style="padding: 16px;">
+      <img src="assets/nathan-notebook.png"
+                alt="Bonfire"
+                style="width: 420px; max-width: 100%; opacity: 0.9;" />
     </td>
   </tr>
+</table>
+
+<p align="center">
+  Want to know how I went from holding a PlayStation controller to engineering systems in Unity?
+</p>
+<p align="center">
+  <a href="LORE.md" style="font-weight: bold; text-decoration: none; color: #58a6ff;">
+    📖 [ Open Nathan's Journal to Read my Lore ]
+  </a>
+</p>
 </table>
